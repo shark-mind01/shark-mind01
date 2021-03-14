@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shark-mind01
 - 👀 I’m interested in ethical hacking  
 - 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on hacking tools developing 
+- 💞️ I’m looking to collaborate on hacking tools development
 - 📫 How to reach me ...
 
 <!---
